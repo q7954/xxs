@@ -1,0 +1,25 @@
+{
+  "classes": [
+  {
+    "type_name": "电视剧",
+    "type_id": "657d8c2b550f"
+  },
+  {
+    "type_name": "动漫",
+    "type_id": "fb6d4c39c83f"
+  },
+  {
+    "type_name": "MTV",
+    "type_id": "3e458103b556"
+  },
+  {
+    "type_name": "MV",
+    "type_id": "e10ef5a111e5"
+  },
+  {
+    "type_name": "短剧",
+    "type_id": "5173a250c8f7"
+  }
+],
+  "cookie": ""
+  }

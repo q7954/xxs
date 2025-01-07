@@ -1,0 +1,25 @@
+{
+
+	"class": [
+                                {  
+			"type_name": "沙雕动漫",
+			"type_id": "一口气沙雕动漫"
+		},
+                                        {  
+			"type_name": "漫画解说",
+			"type_id": "漫画解说"
+		},
+                                {  
+			"type_name": "一口气看完",
+			"type_id": "一口气看"
+		},
+		                                {  
+			"type_name": "多人有声剧",
+			"type_id": "多人有声剧"
+		},
+			{
+			"type_name": "壹周立波秀",
+			"type_id": "壹周立波秀"
+		}
+	    ]
+}
