@@ -1,0 +1,20 @@
+var rule = {
+    title: '柒贰DJ[听]',
+    host: 'https://www.72dj.net',
+    url: '/music/list-id-fyclass-fypage.html',
+    class_name: '串烧舞曲&现场串烧&慢摇串烧&酒吧慢摇&车载串烧&M C 现场&中文舞曲&Funky/House&Electro/House&咚鼓/越鼓&Prog/House&慢歌连版&流行金曲&发烧经典&纯音乐车载&车载电子琴&葫芦丝演奏&电吹管演奏&外文舞曲&Electro/House&FunkyHouse/Prog&Trap/HipHop/Rnb&Hardstyle/Techno&交谊舞曲',
+    class_url: '1&8&4&17&23&24&2&12&10&11&19&5&25&26&7&20&21&22&3&13&14&15&16&6',
+    searchable: 2,
+    quickSearch: 0,
+    filterable: 0,
+    headers: {
+        'User-Agent': 'MOBILE_UA',
+    },
+    play_parse: true,
+    推荐: 'ul.items-center&&li;.update-div-a&&Text;*;.update-div-p&&Text;*',
+    searchUrl: '/dance/search?key=**&page=fypage',
+    一级: 'body&&.flex.items-center.pl-2;.p-box-a&&Text;img&&src;.p-box-p&&Text;a&&href',
+    二级: '*',
+    tab_rename: {'道长在线': '柒贰DJ'},
+    搜索: '*',
+}
