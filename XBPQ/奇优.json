@@ -1,0 +1,24 @@
+//发布页https://woniu.info/
+{
+  "请求头": "手机",
+  "主页url": "http://www.qiyou8.com/",
+  "数组": "class=\"stui-vodlist__box\">&&</div>",
+  "简介": "简介：&&</a>",
+  "副标题": "<span class=\"pic-text text-right\">&&</span>",
+  "线路数组": "href=\"stui-pannel__head clearfix\"&&</li>",
+  "线路标题": "&&",
+  "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
+  "播放列表": "<li&&</li>",
+  "播放标题": ">&&</a",
+  "播放链接": "href=\"&&\"",
+  "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+  "搜索模式": "1",
+  "搜索图片": "data-original=\"&&\"",
+  "搜索标题": "title=\"&&\"",
+  "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+  "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+  "搜索链接": "href=\"&&\"",
+  "搜索url": "http://taikang.com.fagmn.com/search.php;post;searchword={wd}",
+  "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+  "分类url": "http://taikang.com.fagmn.com/list/{cateId}_{catePg}.html"
+}
